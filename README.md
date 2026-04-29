@@ -10,7 +10,7 @@
 
 ## Mise en place de Jenkins via Docker
 ### Création de Dockerfile 
-![nano Dockerfile](images/00-Dockerfile.png)
+![nano Dockerfile](images/00-Dockerfil.png)
 
 
 ###  Build de l'image Jenkins personnalisée
