@@ -1,4 +1,4 @@
-# TP Java Pipeline — Jenkins & Maven
+# Java Pipeline — Jenkins & Maven
 
 > **Auteur :** Niema El Malki    
 > **Num. Inscription:** SMI0157/25    
